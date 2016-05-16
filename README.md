@@ -19,3 +19,5 @@ The composition and structure of viral genomes is more varied than bacterial, pl
 - Viruses are divided into two groups: enveloped viruses are surrounded by an outer lipid membrane; non-enveloped viruses lack this membrane.
 - Where present, the envelope contains the viral proteins, which mediate binding to host cells. Where no envelope is present, this function is carried out by the outer capsid proteins. In general, non-enveloped viruses are more stable and can survive much longer in the environment.
 - Capsids and envelopes determine the method of viral entry into and exit from host cells.
+
+<b>Note:</b> Viruses are known to be the most abundant organisms on earth and their associated expressed viral diseases have an enormous impact on human health worldwide.
