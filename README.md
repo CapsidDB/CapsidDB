@@ -13,3 +13,9 @@ The <b>capsomere</b> is a subunit of the capsid, an outer covering of protein th
 
 ### Genomics
 The composition and structure of viral genomes is more varied than bacterial, plant, or animal kingdoms. The viral genomes may be <b>single-stranded</b> or <b>double-stranded</b>, <b>linear</b> or <b>circular</b>, and in <b>single-segmented</b> or <b>multi-segmented</b> configuration. There are 2,418 reference viral genomes in the current GenBank collection (up to 2012-4-6).
+
+<b>Key features:</b>
+- Viral genetic material is packaged inside protein structures called capsids.
+- Viruses are divided into two groups: enveloped viruses are surrounded by an outer lipid membrane; non-enveloped viruses lack this membrane.
+- Where present, the envelope contains the viral proteins, which mediate binding to host cells. Where no envelope is present, this function is carried out by the outer capsid proteins. In general, non-enveloped viruses are more stable and can survive much longer in the environment.
+- Capsids and envelopes determine the method of viral entry into and exit from host cells.
