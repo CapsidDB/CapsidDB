@@ -10,3 +10,6 @@ A <b>capsid</b> is the protein shell of a virus. Virus particles contain the vir
 A well known fact about <b>capsid</b> is, it encloses the genetic material of the virus and it consists of several oligomeric structural subunits made of protein called <b>protomers</b>. The observable 3-dimensional morphological subunits, which may or may not correspond to individual proteins, are called <b>capsomeres</b>.
 
 The <b>capsomere</b> is a subunit of the capsid, an outer covering of protein that protects the genetic material of a virus. Capsomeres self-assemble to form the capsid. It's subunits called protomers aggregate to form capsomeres. Various arrangements of capsomeres are: (1) Icosahedral, (2) Helical, and (3) Complex.
+
+### Genomics
+The composition and structure of viral genomes is more varied than bacterial, plant, or animal kingdoms. The viral genomes may be <b>single-stranded</b> or <b>double-stranded</b>, <b>linear</b> or <b>circular</b>, and in <b>single-segmented</b> or <b>multi-segmented</b> configuration. There are 2,418 reference viral genomes in the current GenBank collection (up to 2012-4-6).
