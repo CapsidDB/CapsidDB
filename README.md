@@ -26,3 +26,15 @@ The composition and structure of viral genomes is more varied than bacterial, pl
 Viral genomes were chronologically <i>the first to be sequenced</i> and the corresponding proteomes are only now elucidated, with some surprising results.
 
 Viruses replicate and proliferate in host cells while continuously adjusting to and modulating the host environment. They encode a wide spectrum of multifunctional proteins, which interplay with and modify proteins in host cells. However, the corresponding viral proteomes, that expressed through genes; the alterations of host proteomes upon viral infection, and the dynamic nature of proteins, such as post-translational modifications, enzymatic cleavage, and activation or destruction by proteolysis, remain largely unknown.
+
+### Classification
+The Baltimore classification, developed by <b>Dr. David Baltimore</b>, is a virus classification system that groups viruses into families, depending on their type of genome (DNA, RNA, single-stranded (ss), double-stranded (ds), etc.) and their method of replication.
+
+Classifying viruses according to their genome means that those in a given category will all behave in much the same way, which offers some indication of how to proceed with further research.
+- <b>I</b>: dsDNA viruses (e.g. Adenoviruses, Herpesviruses, and Poxviruses),
+- <b>II</b>: ssDNA viruses (+ strand or "sense") DNA (e.g. Parvoviruses),
+- <b>III</b>: dsRNA viruses (e.g. Reoviruses),
+- <b>IV</b>: (+)ssRNA viruses (+ strand or sense) RNA (e.g. Picornaviruses, and Togaviruses),
+- <b>V</b>: (−)ssRNA viruses (− strand or antisense) RNA (e.g. Orthomyxoviruses, and Rhabdoviruses),
+- <b>VI</b>: ssRNA-RT viruses (+ strand or sense) RNA with DNA intermediate in life-cycle (e.g. Retroviruses), and
+- <b>VII</b>: dsDNA-RT viruses (e.g. Hepadnaviruses).
