@@ -21,3 +21,8 @@ The composition and structure of viral genomes is more varied than bacterial, pl
 - Capsids and envelopes determine the method of viral entry into and exit from host cells.
 
 <b>Note:</b> Viruses are known to be the most abundant organisms on earth and their associated expressed viral diseases have an enormous impact on human health worldwide.
+
+### Proteomics
+Viral genomes were chronologically <i>the first to be sequenced</i> and the corresponding proteomes are only now elucidated, with some surprising results.
+
+Viruses replicate and proliferate in host cells while continuously adjusting to and modulating the host environment. They encode a wide spectrum of multifunctional proteins, which interplay with and modify proteins in host cells. However, the corresponding viral proteomes, that expressed through genes; the alterations of host proteomes upon viral infection, and the dynamic nature of proteins, such as post-translational modifications, enzymatic cleavage, and activation or destruction by proteolysis, remain largely unknown.
