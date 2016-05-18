@@ -38,3 +38,7 @@ Classifying viruses according to their genome means that those in a given catego
 - <b>V</b>: (−)ssRNA viruses (− strand or antisense) RNA (e.g. Orthomyxoviruses, and Rhabdoviruses),
 - <b>VI</b>: ssRNA-RT viruses (+ strand or sense) RNA with DNA intermediate in life-cycle (e.g. Retroviruses), and
 - <b>VII</b>: dsDNA-RT viruses (e.g. Hepadnaviruses).
+
+<img src="assets/images/baltimore.classification.gif" align="center" alt="Baltimore Classification">
+
+Visualization of the <i>7 groups of virus</i> according to the <b>Baltimore Classification</b>.
