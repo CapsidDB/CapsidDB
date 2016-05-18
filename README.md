@@ -42,3 +42,6 @@ Classifying viruses according to their genome means that those in a given catego
 <img src="assets/images/baltimore.classification.gif" align="center" alt="Baltimore Classification">
 
 Visualization of the <i>7 groups of virus</i> according to the <b>Baltimore Classification</b>.
+
+## About
+CapsidDB<sup>®</sup>, is a dedicated Capsid proteins and their associated functional genes database; to explore the major areas of viral proteomics, including virion proteomics, structural proteomics, viral protein interactomics, and changes to the host cell proteome upon viral infection.
